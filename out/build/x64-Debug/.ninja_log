@@ -1,0 +1,10 @@
+# ninja log v5
+1	279	7455826738151447	CMakeFiles/cppserver.dir/cppserver.cpp.obj	bc5f6dbc52a9479a
+279	463	7455826739712995	cppserver.exe	de4888ebe6cb25ec
+5	284	7455826419495311	CMakeFiles/cppserver.dir/Log/log.cpp.obj	fe793a5444eac70d
+1	133	7455826811112314	build.ninja	2484641a99604f75
+5	559	7455838475469038	CMakeFiles/cppserver.dir/Log/log.cpp.obj	fe793a5444eac70d
+0	277	7455838855590835	CMakeFiles/cppserver.dir/cppserver.cpp.obj	bc5f6dbc52a9479a
+278	453	7455838857153164	cppserver.exe	de4888ebe6cb25ec
+1	661	7456095870347723	CMakeFiles/cppserver.dir/cppserver.cpp.obj	bc5f6dbc52a9479a
+1	501	7456096281757236	CMakeFiles/cppserver.dir/Log/log.cpp.obj	fe793a5444eac70d
